@@ -1,0 +1,777 @@
+{
+  "nodes": [
+    {
+      "category": "名词",
+      "id": "0",
+      "name": "鄂伦春族",
+      "symbolSize": 100.0,
+      "value": 682,
+      "x": -266.82776,
+      "y": 299.6904
+    },
+    {
+      "category": "名词",
+      "id": "1",
+      "name": "民族",
+      "symbolSize": 70.4989154013015,
+      "value": 301,
+      "x": -418.08344,
+      "y": 446.8853
+    },
+    {
+      "category": "名词",
+      "id": "2",
+      "name": "鄂伦春",
+      "symbolSize": 65.5097613882863,
+      "value": 224,
+      "x": -212.76357,
+      "y": 245.29176
+    },
+    {
+      "category": "名词",
+      "id": "3",
+      "name": "文化",
+      "symbolSize": 13.4490238611714,
+      "value": 210,
+      "x": -242.82404,
+      "y": 235.26283
+    },
+    {
+      "category": "动词",
+      "id": "4",
+      "name": "中国",
+      "symbolSize": 12.5813449023861,
+      "value": 164,
+      "x": -379.30386,
+      "y": 429.06424
+    },
+    {
+      "category": "名词",
+      "id": "5",
+      "name": "文旅",
+      "symbolSize": 10.8459869848156,
+      "value": 121,
+      "x": -417.26337,
+      "y": 406.03506
+    },
+    {
+      "category": "名词",
+      "id": "6",
+      "name": "生活",
+      "symbolSize": 10.8459869848156,
+      "value": 120,
+      "x": -332.6012,
+      "y": 485.16974
+    },
+    {
+      "category": "名词",
+      "id": "7",
+      "name": "篝火",
+      "symbolSize": 8.89370932754881,
+      "value": 105,
+      "x": -382.69568,
+      "y": 475.09113
+    },
+    {
+      "category": "名词",
+      "id": "8",
+      "name": "黑龙江",
+      "symbolSize": 8.02603036876356,
+      "value": 100,
+      "x": -320.384,
+      "y": 387.17325
+    },
+    {
+      "category": "动词",
+      "id": "9",
+      "name": "旅游",
+      "symbolSize": 7.80911062906724,
+      "value": 94,
+      "x": -344.39832,
+      "y": 451.16772
+    },
+    {
+      "category": "动词",
+      "id": "10",
+      "name": "狩猎",
+      "symbolSize": 7.37527114967462,
+      "value": 91,
+      "x": -89.34107,
+      "y": 234.56128
+    },
+    {
+      "category": "动词",
+      "id": "11",
+      "name": "制作",
+      "symbolSize": 7.37527114967462,
+      "value": 81,
+      "x": -87.93029,
+      "y": -6.8120565
+    },
+    {
+      "category": "名词",
+      "id": "12",
+      "name": "少数民族",
+      "symbolSize": 7.15835140997831,
+      "value": 81,
+      "x": -339.77908,
+      "y": -184.69139
+    },
+    {
+      "category": "名词",
+      "id": "13",
+      "name": "局长",
+      "symbolSize": 7.15835140997831,
+      "value": 80,
+      "x": -194.31313,
+      "y": 178.55301
+    },
+    {
+      "category": "名词",
+      "id": "14",
+      "name": "服饰",
+      "symbolSize": 6.72451193058568,
+      "value": 76,
+      "x": -158.05168,
+      "y": 201.99768
+    },
+    {
+      "category": "名词",
+      "id": "15",
+      "name": "传统",
+      "symbolSize": 6.72451193058568,
+      "value": 76,
+      "x": -127.701546,
+      "y": 242.55057
+    },
+    {
+      "category": "名词",
+      "id": "16",
+      "name": "桦树皮",
+      "symbolSize": 6.72451193058568,
+      "value": 68,
+      "x": -385.2226,
+      "y": -393.5572
+    },
+    {
+      "category": "名词",
+      "id": "17",
+      "name": "森林",
+      "symbolSize": 6.29067245119306,
+      "value": 68,
+      "x": -516.55884,
+      "y": -393.98975
+    },
+    {
+      "category": "名词",
+      "id": "18",
+      "name": "内蒙古",
+      "symbolSize": 5.85683297180043,
+      "value": 67,
+      "x": -464.79382,
+      "y": -493.57944
+    },
+    {
+      "category": "名词",
+      "id": "19",
+      "name": "大兴安岭",
+      "symbolSize": 5.42299349240781,
+      "value": 65,
+      "x": -515.1624,
+      "y": -456.9891
+    },
+    {
+      "category": "名词",
+      "id": "20",
+      "name": "鄂伦春人",
+      "symbolSize": 5.42299349240781,
+      "value": 64,
+      "x": -408.12122,
+      "y": -464.5048
+    },
+    {
+      "category": "名词",
+      "id": "21",
+      "name": "传承",
+      "symbolSize": 5.2060737527115,
+      "value": 61,
+      "x": -456.44113,
+      "y": -425.13303
+    },
+    {
+      "category": "名词",
+      "id": "22",
+      "name": "视频",
+      "symbolSize": 4.55531453362256,
+      "value": 61,
+      "x": -459.1107,
+      "y": -362.5133
+    },
+    {
+      "category": "名词",
+      "id": "23",
+      "name": "超话",
+      "symbolSize": 4.55531453362256,
+      "value": 56,
+      "x": -313.42786,
+      "y": -289.44803
+    },
+    {
+      "category": "动词",
+      "id": "24",
+      "name": "高考",
+      "symbolSize": 4.55531453362256,
+      "value": 56,
+      "x": 4.6313396,
+      "y": -273.8517
+    },
+    {
+      "category": "名词",
+      "id": "25",
+      "name": "历史",
+      "symbolSize": 4.55531453362256,
+      "value": 54,
+      "x": 82.80825,
+      "y": -203.1144
+    },
+    {
+      "category": "名词",
+      "id": "26",
+      "name": "文化局局长",
+      "symbolSize": 4.55531453362256,
+      "value": 52,
+      "x": 78.64646,
+      "y": -31.512747
+    },
+    {
+      "category": "其他",
+      "id": "27",
+      "name": "狍子",
+      "symbolSize": 4.55531453362256,
+      "value": 52,
+      "x": -81.46074,
+      "y": -204.20204
+    },
+    {
+      "category": "名词",
+      "id": "28",
+      "name": "鄂温克族",
+      "symbolSize": 4.33839479392625,
+      "value": 51,
+      "x": -225.73984,
+      "y": 82.41631
+    },
+    {
+      "category": "名词",
+      "id": "29",
+      "name": "考生",
+      "symbolSize": 4.33839479392625,
+      "value": 51,
+      "x": -385.6842,
+      "y": -20.206686
+    },
+    {
+      "category": "名词",
+      "id": "30",
+      "name": "故事",
+      "symbolSize": 4.12147505422993,
+      "value": 48,
+      "x": -403.92447,
+      "y": -197.69823
+    },
+    {
+      "category": "动词",
+      "id": "31",
+      "name": "技艺",
+      "symbolSize": 3.68763557483731,
+      "value": 47,
+      "x": -281.4253,
+      "y": -158.45137
+    },
+    {
+      "category": "名词",
+      "id": "32",
+      "name": "兴安岭",
+      "symbolSize": 3.470715835141,
+      "value": 46,
+      "x": -122.41348,
+      "y": 210.37503
+    },
+    {
+      "category": "名词",
+      "id": "33",
+      "name": "活动",
+      "symbolSize": 3.25379609544469,
+      "value": 45,
+      "x": -234.6001,
+      "y": -113.15067
+    },
+    {
+      "category": "其他",
+      "id": "34",
+      "name": "发展",
+      "symbolSize": 3.25379609544469,
+      "value": 44,
+      "x": -387.84915,
+      "y": 58.7059
+    },
+    {
+      "category": "名词",
+      "id": "35",
+      "name": "内蒙古自治区",
+      "symbolSize": 3.03687635574837,
+      "value": 42,
+      "x": -338.2307,
+      "y": 87.48405
+    },
+    {
+      "category": "名词",
+      "id": "36",
+      "name": "蒙古族",
+      "symbolSize": 2.81995661605206,
+      "value": 41,
+      "x": -453.26874,
+      "y": 58.94648
+    },
+    {
+      "category": "名词",
+      "id": "37",
+      "name": "鄂伦春自治旗",
+      "symbolSize": 2.81995661605206,
+      "value": 41,
+      "x": -386.44904,
+      "y": 140.05937
+    },
+    {
+      "category": "名词",
+      "id": "38",
+      "name": "达斡尔族",
+      "symbolSize": 2.38611713665944,
+      "value": 40,
+      "x": -446.7876,
+      "y": 123.38005
+    },
+    {
+      "category": "名词",
+      "id": "39",
+      "name": "黑龙江省",
+      "symbolSize": 2.38611713665944,
+      "value": 40,
+      "x": 336.49738,
+      "y": -269.55914
+    }
+  ],
+  "links": [
+    {
+      "source": "2",
+      "target": "0"
+    },
+    {
+      "source": "2",
+      "target": "1"
+    },
+    {
+      "source": "1",
+      "target": "0"
+    },
+    {
+      "source": "3",
+      "target": "2"
+    },
+    {
+      "source": "3",
+      "target": "0"
+    },
+    {
+      "source": "32",
+      "target": "2"
+    },
+    {
+      "source": "32",
+      "target": "0"
+    },
+    {
+      "source": "4",
+      "target": "2"
+    },
+    {
+      "source": "4",
+      "target": "0"
+    },
+    {
+      "source": "6",
+      "target": "2"
+    },
+    {
+      "source": "6",
+      "target": "0"
+    },
+    {
+      "source": "8",
+      "target": "2"
+    },
+    {
+      "source": "3",
+      "target": "1"
+    },
+    {
+      "source": "8",
+      "target": "0"
+    },
+    {
+      "source": "18",
+      "target": "0"
+    },
+    {
+      "source": "18",
+      "target": "2"
+    },
+    {
+      "source": "15",
+      "target": "0"
+    },
+    {
+      "source": "15",
+      "target": "2"
+    },
+    {
+      "source": "10",
+      "target": "2"
+    },
+    {
+      "source": "10",
+      "target": "0"
+    },
+    {
+      "source": "17",
+      "target": "2"
+    },
+    {
+      "source": "19",
+      "target": "2"
+    },
+    {
+      "source": "32",
+      "target": "19"
+    },
+    {
+      "source": "17",
+      "target": "0"
+    },
+    {
+      "source": "19",
+      "target": "0"
+    },
+    {
+      "source": "12",
+      "target": "1"
+    },
+    {
+      "source": "12",
+      "target": "2"
+    },
+    {
+      "source": "4",
+      "target": "1"
+    },
+    {
+      "source": "12",
+      "target": "0"
+    },
+    {
+      "source": "14",
+      "target": "2"
+    },
+    {
+      "source": "14",
+      "target": "0"
+    },
+    {
+      "source": "6",
+      "target": "1"
+    },
+    {
+      "source": "7",
+      "target": "0"
+    },
+    {
+      "source": "7",
+      "target": "2"
+    },
+    {
+      "source": "32",
+      "target": "1"
+    },
+    {
+      "source": "10",
+      "target": "1"
+    },
+    {
+      "source": "21",
+      "target": "2"
+    },
+    {
+      "source": "21",
+      "target": "0"
+    },
+    {
+      "source": "9",
+      "target": "2"
+    },
+    {
+      "source": "20",
+      "target": "0"
+    },
+    {
+      "source": "20",
+      "target": "2"
+    },
+    {
+      "source": "9",
+      "target": "0"
+    },
+    {
+      "source": "28",
+      "target": "0"
+    },
+    {
+      "source": "28",
+      "target": "2"
+    },
+    {
+      "source": "15",
+      "target": "1"
+    },
+    {
+      "source": "25",
+      "target": "2"
+    },
+    {
+      "source": "23",
+      "target": "2"
+    },
+    {
+      "source": "25",
+      "target": "0"
+    },
+    {
+      "source": "23",
+      "target": "0"
+    },
+    {
+      "source": "4",
+      "target": "3"
+    },
+    {
+      "source": "38",
+      "target": "0"
+    },
+    {
+      "source": "38",
+      "target": "2"
+    },
+    {
+      "source": "8",
+      "target": "1"
+    },
+    {
+      "source": "5",
+      "target": "2"
+    },
+    {
+      "source": "11",
+      "target": "2"
+    },
+    {
+      "source": "5",
+      "target": "0"
+    },
+    {
+      "source": "34",
+      "target": "2"
+    },
+    {
+      "source": "11",
+      "target": "0"
+    },
+    {
+      "source": "15",
+      "target": "3"
+    },
+    {
+      "source": "32",
+      "target": "6"
+    },
+    {
+      "source": "6",
+      "target": "3"
+    },
+    {
+      "source": "34",
+      "target": "0"
+    },
+    {
+      "source": "35",
+      "target": "0"
+    },
+    {
+      "source": "35",
+      "target": "2"
+    },
+    {
+      "source": "35",
+      "target": "18"
+    },
+    {
+      "source": "10",
+      "target": "3"
+    },
+    {
+      "source": "21",
+      "target": "3"
+    },
+    {
+      "source": "18",
+      "target": "1"
+    },
+    {
+      "source": "36",
+      "target": "0"
+    },
+    {
+      "source": "36",
+      "target": "2"
+    },
+    {
+      "source": "10",
+      "target": "6"
+    },
+    {
+      "source": "21",
+      "target": "1"
+    },
+    {
+      "source": "25",
+      "target": "1"
+    },
+    {
+      "source": "30",
+      "target": "2"
+    },
+    {
+      "source": "30",
+      "target": "0"
+    },
+    {
+      "source": "14",
+      "target": "8"
+    },
+    {
+      "source": "32",
+      "target": "3"
+    },
+    {
+      "source": "27",
+      "target": "0"
+    },
+    {
+      "source": "27",
+      "target": "2"
+    },
+    {
+      "source": "28",
+      "target": "1"
+    },
+    {
+      "source": "20",
+      "target": "1"
+    },
+    {
+      "source": "32",
+      "target": "4"
+    },
+    {
+      "source": "34",
+      "target": "1"
+    },
+    {
+      "source": "7",
+      "target": "1"
+    },
+    {
+      "source": "33",
+      "target": "0"
+    },
+    {
+      "source": "33",
+      "target": "2"
+    },
+    {
+      "source": "14",
+      "target": "1"
+    },
+    {
+      "source": "13",
+      "target": "2"
+    },
+    {
+      "source": "22",
+      "target": "0"
+    },
+    {
+      "source": "22",
+      "target": "2"
+    },
+    {
+      "source": "37",
+      "target": "0"
+    },
+    {
+      "source": "37",
+      "target": "2"
+    },
+    {
+      "source": "38",
+      "target": "28"
+    },
+    {
+      "source": "25",
+      "target": "3"
+    },
+    {
+      "source": "13",
+      "target": "0"
+    },
+    {
+      "source": "32",
+      "target": "10"
+    },
+    {
+      "source": "39",
+      "target": "0"
+    },
+    {
+      "source": "39",
+      "target": "2"
+    },
+    {
+      "source": "39",
+      "target": "8"
+    },
+    {
+      "source": "17",
+      "target": "1"
+    }
+  ],
+  "categories": [
+    {
+      "name": "动词"
+    },
+    {
+      "name": "名词"
+    },
+    {
+      "name": "其他"
+    }
+  ]
+}
